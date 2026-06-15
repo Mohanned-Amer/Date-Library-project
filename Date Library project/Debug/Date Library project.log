@@ -1,0 +1,27 @@
+﻿Build started 16/05/26 10:20:15 م.
+     1>Project "D:\My codes in c++\OOP course 10\Date Library project\Date Library project\Date Library project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\my codes in c++\oop course 10\date library project\date library project\source.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(95): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(123): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(148): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(164): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(189): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(216): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(237): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(255): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(273): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(311): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(359): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\clsstring.h(492): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my codes in c++\oop course 10\date library project\date library project\source.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\My codes in c++\OOP course 10\Date Library project\Debug\Date Library project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\My codes in c++\OOP course 10\Date Library project\Debug\Date Library project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\My codes in c++\OOP course 10\Date Library project\Debug\Date Library project.lib" /MACHINE:X86 Debug\Source.obj
+         Date Library project.vcxproj -> D:\My codes in c++\OOP course 10\Date Library project\Debug\Date Library project.exe
+     1>Done Building Project "D:\My codes in c++\OOP course 10\Date Library project\Date Library project\Date Library project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.33
